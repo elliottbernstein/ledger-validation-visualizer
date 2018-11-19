@@ -6,9 +6,9 @@ This project runs best on node v8.9.4 with MacOS & Chrome
 
 To get a better sense of the implementation, inspect the following files:
 
-~/api/routes/index  The singular Express endpoint used by Vue request polling of ledger validations
-~/src/assets/data/ledgersData  The Vue component responsible for querying and where we build the main data object
-~/src/components/ledgersChart  The Vue component where the data object is rendered into a table, chart, and related statistics
+`~/api/routes/index`  The singular Express endpoint used by Vue request polling of ledger validations
+`~/src/assets/data/ledgersData`  The Vue component responsible for querying and where we build the main data object
+`~/src/components/ledgersChart`  The Vue component where the data object is rendered into a table, chart, and related statistics
 
 ## Installation
 ``` bash
