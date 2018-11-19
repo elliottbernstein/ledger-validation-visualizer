@@ -1,6 +1,8 @@
 # Introduction
 Ledger Validation Visualizer is a tool for monitoring average validation times for ledgers on the Ripple blockchain. This is accomplished through periodic Node/Express polling of a testnet rippled server.
 
+![example](static/img/dashboard.png)
+
 ## Technical Notes
 This project runs best on node v8.9.4 with MacOS & Chrome
 
