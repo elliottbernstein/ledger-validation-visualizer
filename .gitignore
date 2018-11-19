@@ -1,0 +1,3 @@
+node_modules/
+# MacOS BS
+.DS_Store
